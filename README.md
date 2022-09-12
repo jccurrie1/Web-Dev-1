@@ -1,3 +1,3 @@
 # Web-Dev-1
-Creating a personal website.
+Learning to create a website all of this code is practice and or tutorials.
 
